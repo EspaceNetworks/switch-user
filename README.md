@@ -1,2 +1,2 @@
 # SwitchUser
-A library to dynamically switch the user a script is running as.
+A library to switch the user a PHP script is running as.
